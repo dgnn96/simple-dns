@@ -16,4 +16,4 @@ CentOS Linux release 7.8.2003
 g++ (GCC) 4.8.5
 
 ## 运行测试
-![testdns](http://github.com/dgnn96/simple-dns/raw/master/images/testdns.jpg)
+![testdns](http://github.com/dgnn96/simple-dns/raw/master/images/testdns.png)
